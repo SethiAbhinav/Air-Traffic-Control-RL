@@ -7,7 +7,7 @@ The 6th semester project for course on Reinforcement Learning.
 Simulated an aircraft Traffic Control agent which maneuvers around other planes to reach a common destination. Had to modify a PyGame based game to make it a Markov Decision Process (MDP) and formualted the state-space, action-space and reward setup. Next, we trained the agent using the SARSA algorithm.
 
 ## More details + Results?
-A detailed report is present in the "Report.pdf" file.
+A detailed report is present in the "RL_Project_report.pdf" file.
 
 ## Team:
 Abhinav Sethi 
